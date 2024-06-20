@@ -24,6 +24,9 @@
                                     <directionalEdgeInsets key="contentInsets" top="4" leading="8" bottom="5" trailing="8"/>
                                     <color key="baseForegroundColor" systemColor="systemYellowColor"/>
                                 </buttonConfiguration>
+                                <connections>
+                                    <action selector="doButton:" destination="BYZ-38-t0r" eventType="primaryActionTriggered" id="jmB-PB-84t"/>
+                                </connections>
                             </button>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
